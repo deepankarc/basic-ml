@@ -7,5 +7,6 @@
  - [x] Analysis of density estimation using Expectation maximization for unsupervised clustering  
  - [x] Understanding effect of different classification methodologies on synthetically generated data (sample from: Gaussian/Gamma/Uniform distributions)
  - [x] Data exploration and analysis of the [German Credit Score dataset](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)) for classification
+ - [x] Implementation of sub-sampling and oversampling strategies (in particular: SMOTE) for effective classification on the imbalanced German statlog dataset.
  - [x] Analysis and verification of classifier performance on the IRIS dataset (ROC curves, decision boundaries, etc.).
  - [x] Observing overfitting using polynomial regression by adjusting model complexity.
